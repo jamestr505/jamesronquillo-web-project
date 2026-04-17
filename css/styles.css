@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+    color: darkgreen;
+    font-family: Arial;
+}
+
+h1 {
+    color: green;
+    font-size: 28px;
+}
+
+h2{
+    color: blue;
+    font-size: 22px;
+}
+h3 {
+    color: purple;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px;
+}
+
+ul{
+    color: blue;
+}
+
+ol {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+img{
+    margin: 10px
+}
+
+table{
+    background-color: lightyellow;
+    margin: 10px;
+}
